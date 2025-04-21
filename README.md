@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: xm24@ic.ac.uk
 - 😄 Pronouns: His/Him
 -->
-- 🔭 Please call me Shaun, and I’m currently studying at Imperial College Business School in Msc Risk Management & Financial Engineering
+- 🔭 Please call me Shaun, and I’m currently studying at Imperial College in Msc Risk Management & Financial Engineering
 - 🌱 I’m currently learning Option Pricing Theories, Applied Trading Strategies, and Machine Learning basics
-- :microscope:My previous experiences include fintech, carbon market, and investment banking! 
+- :microscope:My previous experiences include fintech, carbon market, and investment banking!
 - 👯 I’m looking for opportunities to collaborate on Machine Learning Practice/ Research Projects
 - 🤔 I’m available for help with or discuss any programming or statistic problems correlated with economics and finance!
 - 📫 How to reach me: xm24[at]ic[dot]ac[dot]uk
