@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking for opportunities to collaborate on Machine Learning Practice/ Research Projects
 - 🤔 I’m available for help with or discuss any programming or statistic problems correlated with economics and finance!
 - 📫 How to reach me: xm24[at]ic[dot]ac[dot]uk
-- 😄 Big fan of LOL, Hearthstone, etc
