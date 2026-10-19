@@ -1,9 +1,14 @@
-## Hello World!👋
+## Xiangzhong (Shaun) Meng
 
-- 😄 Hi, I'm Shaun, a Research Assistant at the [Centre for Climate Finance & Investment (CCFI)](https://www.imperial.ac.uk/business-school/faculty-research/research-centres/centre-climate-finance-investment/), Imperial College Business School
-- 🎓 MSc Risk Management & Financial Engineering (Distinction), Imperial College London; Teaching Assistant for Financial Engineering at Imperial Business School
-- 🌱 Research interests: Asset Pricing, Market Microstructure, Climate Finance, and Machine Learning
-- ✨ Previous experience in risk management, fintech, and investment banking (Bank of China, Deloitte)
-- 🤔 Python, R, Stata, EViews; machine learning with Transformers, PyTorch, XGBoost, and Scikit-learn
-- 📫 How to reach me: xm24[at]ic[dot]ac[dot]uk
-- 🔭 [Paper: An Empirical Study of Price Dynamics in the Chinese Emission Trading Systems](https://github.com/xm0207/Shaun-s-Project/blob/main/Carbon_Factor_Graduate_Thesis.pdf)
+Research Assistant at the Centre for Climate Finance & Investment, Imperial College London, and Teaching Assistant on the MSc Financial Engineering at Imperial Business School.
+
+My research is in climate finance and market microstructure, with a focus on carbon markets and applied time-series econometrics.
+
+### Research
+
+- **GEOmetry of Voluntary Carbon Markets**, with Ying Liu. [SSRN 6460979](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6460979). Presented at FMA Europe 2026.
+- **AI adoption in insurance**, a UKRI-funded project at CCFI. [Project dashboard](https://ccfi-imperial.github.io/csep-ai-insurance) (access by invitation).
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/xiangzhong-meng/) · xiangzhong.meng@hotmail.com
