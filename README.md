@@ -2,7 +2,7 @@
 
 Teaching Assistant on Financial Engineering at Imperial Business School. From February to October 2026 I was a research assistant at the Centre for Climate Finance & Investment, Imperial College London, working on the economics of AI adoption in insurance.
 
-Research interests: sustainable finance, AI in finance, and the labour economics of AI.
+Research interests: Sustainable Finance, AI in Finance, and Labour Economics of AI.
 
 ### Research
 
@@ -10,4 +10,4 @@ Research interests: sustainable finance, AI in finance, and the labour economics
 
 ### Links
 
-[Website](https://xm0207.github.io) · [LinkedIn](https://www.linkedin.com/in/xiangzhong-meng/) · xm24@ic.ac.uk
+[Website](https://xm0207.github.io) · [LinkedIn](https://www.linkedin.com/in/xiangzhong-meng/) · xiangzhong.meng@hotmail.com
