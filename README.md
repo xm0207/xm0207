@@ -15,7 +15,7 @@ Research interests: Sustainable Finance, AI in Finance, and Labour Economics of 
 ### Projects
 
 - **Checking Corporate Emissions Reporting.** Summer research at the Centre for Climate Finance & Investment; I supervised the interns who carried it out. [How it worked](https://xm0207.github.io/projects/emissions-reporting.html)
-- **AI Wellness Companion for a FemTech Start-Up.** A retrieval-augmented LLM assistant on Azure, built by BritxAI, which I co-founded.
+- **AI Wellness Companion for a FemTech Start-Up.** A retrieval-augmented LLM assistant on Azure, built by BritxAI, which I co-founded (2025 to 2026).
 - **Stacked LightGBM for Quarter-Ahead Stock Returns.** MSc course project.
 
 ### Links
