@@ -1,13 +1,23 @@
 ## Xiangzhong (Shaun) Meng
 
-Teaching Assistant on Financial Engineering at Imperial Business School. From February to October 2026 I was a research assistant at the Centre for Climate Finance & Investment, Imperial College London, working on the economics of AI adoption in insurance.
+Research on Sustainable Finance and the Economics of AI.
+
+Teaching Assistant on Financial Engineering at Imperial Business School. Research Assistant at the Centre for Climate Finance & Investment, Imperial College London, February to October 2026.
 
 Research interests: Sustainable Finance, AI in Finance, and Labour Economics of AI.
 
 ### Research
 
-- **Eligibility Design and Participation Exit in Carbon Offset Futures**, with Ying Liu. [SSRN 6460979](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6460979). FMA Europe 2026.
+- **The Economics of AI Adoption in Insurance.** Research project, Centre for Climate Finance & Investment, Imperial College London, 2026. Findings forthcoming.
+- **Eligibility Design and Participation Exit in Carbon Offset Futures**, with Ying Liu. Working paper, FMA Europe 2026. [Key findings](https://xm0207.github.io/research/carbon-offset-futures.html) · [SSRN 6460979](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6460979)
+- **Analysis of Factors Driving Carbon Market Prices.** BEcon thesis, Shanghai University of Finance and Economics, 2024. [Key findings](https://xm0207.github.io/research/carbon-market-prices.html)
+
+### Projects
+
+- **Checking Corporate Emissions Reporting.** Summer research at the Centre for Climate Finance & Investment; I supervised the interns who carried it out. [How it worked](https://xm0207.github.io/projects/emissions-reporting.html)
+- **AI Wellness Companion for a FemTech Start-Up.** A retrieval-augmented LLM assistant on Azure, built by BritxAI, which I co-founded.
+- **Stacked LightGBM for Quarter-Ahead Stock Returns.** MSc course project.
 
 ### Links
 
-[Website](https://xm0207.github.io) · [LinkedIn](https://www.linkedin.com/in/xiangzhong-meng/) · xiangzhong.meng@hotmail.com
+[Website](https://xm0207.github.io) · [Blog](https://xm0207.github.io/blog/) · [LinkedIn](https://www.linkedin.com/in/xiangzhong-meng/) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6460979) · xiangzhong.meng@hotmail.com
