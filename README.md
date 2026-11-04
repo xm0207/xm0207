@@ -14,6 +14,7 @@ Research interests: Sustainable Finance, AI in Finance, and Labour Economics of 
 
 ### Projects
 
+- **Stress Testing and Market Risk.** Four VaR models backtested on 35 years of FRED data, and seven historical crises replayed on a sterling multi-asset portfolio. [Interactive tools](https://xm0207.github.io/projects/market-risk.html) · [Code](https://github.com/xm0207/market-risk-toolkit)
 - **Checking Corporate Emissions Reporting.** Summer research at the Centre for Climate Finance & Investment; I supervised the interns who carried it out. [How it worked](https://xm0207.github.io/projects/emissions-reporting.html)
 - **AI Wellness Companion for a FemTech Start-Up.** A retrieval-augmented LLM assistant on Azure, built by BritxAI, which I co-founded (2025 to 2026).
 - **Stacked LightGBM for Quarter-Ahead Stock Returns.** MSc course project.
