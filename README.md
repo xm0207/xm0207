@@ -4,7 +4,7 @@ Research on Sustainable Finance and the Economics of AI.
 
 Teaching Assistant on Financial Engineering at Imperial Business School. Research Assistant at the Centre for Climate Finance & Investment, Imperial College London, February to October 2026.
 
-Research interests: Sustainable Finance, AI in Finance, and Labour Economics of AI.
+Research interests: Sustainable Finance, AI in Finance and Labour Economics of AI.
 
 ### Research
 
